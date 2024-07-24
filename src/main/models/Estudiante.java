@@ -15,7 +15,7 @@ public class Estudiante {
     }
 
     public String toString(){
-        return "Nombre del estudiante es:"+nombre+". Su calificación: "+calificacion;
+        return "Nombre del estudiante es: "+nombre+". Su calificación: "+calificacion;
     }
 
 }
